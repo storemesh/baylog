@@ -16,3 +16,13 @@ conda activate baylog-experiment
 pip install -r requirements.txt
 ```
 
+# Citation
+```
+@inproceedings{limprasert2022anomaly,
+  title={Anomaly Detection on Real-time Security Log using Stream Processing},
+  author={Limprasert, Wasit and Jantana, Patcharapon and Liangsiri, Avirut},
+  booktitle={iSAI-NLP-AIoT-ICCT 2022},
+  year={2022}
+}
+```
+
